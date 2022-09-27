@@ -16,11 +16,13 @@
 ### Let's build together with
 ![Python](https://img.shields.io/badge/-Python-black)
 ![Django](https://img.shields.io/badge/-Django-black)
+![REST API](https://img.shields.io/badge/-Django-black)
+![Flask](https://img.shields.io/badge/-Django-black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey)
 ![CSS](https://img.shields.io/badge/-CSS-grey)
 ![HTML](https://img.shields.io/badge/-HTML-grey)
 ![Git](https://img.shields.io/badge/-Git-grey)
-![GitgHub](https://img.shields.io/badge/-GitHub-grey)
+![GitHub](https://img.shields.io/badge/-GitHub-grey)
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TaslimOwolarafe&show_icons=true&include_all_commits=true&hide_border=true" alt="Taslim's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaslimOwolarafe&langs_count=8&layout=compact&hide_border=true" alt="Taslim's GitHub stats" /> |
