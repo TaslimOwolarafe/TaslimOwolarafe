@@ -16,8 +16,8 @@
 ### Let's build together with
 ![Python](https://img.shields.io/badge/-Python-black)
 ![Django](https://img.shields.io/badge/-Django-black)
-![REST API](https://img.shields.io/badge/-Django-black)
-![Flask](https://img.shields.io/badge/-Django-black)
+![REST API](https://img.shields.io/badge/-REST%20API-red)
+![Flask](https://img.shields.io/badge/-Flask-brown)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey)
 ![CSS](https://img.shields.io/badge/-CSS-grey)
 ![HTML](https://img.shields.io/badge/-HTML-grey)
