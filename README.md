@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning JavaScript, Python, AWS and more on Open Source.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- ⛓️ I'm also an HNG Finalist.
 ---
 ### Let's build together with
 <a href="https://python.org/"><img src="https://www.python.org/static/img/python-logo@2x.png" height="30"></a>
