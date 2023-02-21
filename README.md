@@ -16,15 +16,14 @@
 - ⛓️ I'm also an HNG Finalist.
 ---
 ### Let's build together with
-<a href="https://python.org/"><img src="https://www.python.org/static/img/python-logo@2x.png" height="70"></a>
-<a href="https://docs.djangoproject.com/en/4.1/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/10/django-logo-big-removebg-preview.png?fit=632%2C395&ssl=1" height="70"></a>
-<a href="https://https://www.django-rest-framework.org//"><img src="https://www.django-rest-framework.org/img/logo.png" height="70" style="background-color:white, color:blue"></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" height="70"></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="70"></a><br>
-<img src="https://www.freepnglogos.com/uploads/javascript-png/logo-html5-js-css3-png-transparent-logo-4.png" height="70">
+<a href="https://python.org/"><img src="https://www.python.org/static/img/python-logo@2x.png" height="30"></a>
+<a href="https://docs.djangoproject.com/en/4.1/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/10/django-logo-big-removebg-preview.png?fit=632%2C395&ssl=1" height="30"></a>
+<a href="https://https://www.django-rest-framework.org//"><img src="https://www.django-rest-framework.org/img/logo.png" height="30"></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" height="30"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30"></a>
+<img src="https://www.freepnglogos.com/uploads/javascript-png/logo-html5-js-css3-png-transparent-logo-4.png" height="30">
 &nbsp;
-<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" height="30" style="margin:0 10"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" height="30" style="margin:0 10"></a>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="30">
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TaslimOwolarafe&show_icons=true&include_all_commits=true&hide_border=true" alt="Taslim's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaslimOwolarafe&langs_count=8&layout=compact&hide_border=true" alt="Taslim's GitHub stats" /> |
 | ------------- | ------------- |
